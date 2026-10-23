@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Help, a bug or an idea
+    url: https://wordpress.org/support/plugin/wpmaven/
+    about: Please post in the plugin's support forum on WordPress.org. This repository doesn't take issues.
+  - name: A security issue
+    url: https://github.com/wpmaven/.github/blob/main/SECURITY.md
+    about: Please report it privately, as described here.
